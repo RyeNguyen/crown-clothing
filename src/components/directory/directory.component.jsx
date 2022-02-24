@@ -8,7 +8,7 @@ export default class Directory extends React.Component {
         super(props);
 
         this.state = {
-            sections: [
+            sections:   [
                 {
                     title: 'hats',
                     imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
